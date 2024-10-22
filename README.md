@@ -1,6 +1,10 @@
 Psychropy
 =========
 
+*** I have dicontinued updating this file if that was not already obvious current versions of this code are maintained here:***
+
+https://github.com/ucdavis/psychropy
+
 A repository of Psychrometric calculation and plotting tools 
 
 This is currently a translated Excel VB calculator that I wanted to 
